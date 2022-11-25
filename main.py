@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 import time
 
-# shutdown -s -t XXXX
+# shutdown -s -t XXXX testtest
 
 
 # GUI
